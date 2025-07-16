@@ -1,5 +1,5 @@
 # 🏏 IPL Visualization Project
-This project explores and visualizes data from the Indian Premier League (IPL) using powerful Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. The goal is to uncover key insights and trends from IPL matches through clean, interactive, and informative visualizations.
+**This project explores and visualizes data from the Indian Premier League (IPL) using powerful Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. The goal is to uncover key insights and trends from IPL matches through clean, interactive, and informative visualizations.**
 
 **📈 Key Insights & Visualizations**
 Some of the questions addressed:
