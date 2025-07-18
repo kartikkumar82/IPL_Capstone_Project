@@ -18,4 +18,8 @@ Some of the questions addressed:
 
 All visualizations are created using Matplotlib and Seaborn.
 
-<h2>Author - Kartik Kumar</h2>
+
+
+
+
+<h3>Author - Kartik Kumar</h3>
