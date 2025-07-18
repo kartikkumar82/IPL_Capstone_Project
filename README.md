@@ -17,3 +17,5 @@ Some of the questions addressed:
 📊 Distribution of runs, extras, and dismissals
 
 All visualizations are created using Matplotlib and Seaborn.
+
+<h2>Author - Kartik Kumar</h2>
