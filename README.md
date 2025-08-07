@@ -22,5 +22,6 @@ All visualizations are created using Matplotlib and Seaborn.
 
 
 
-<h3>Author - Kartik Kumar</h3>
-<h4>Email - kartikkumar1800089@gmail.com</h4>
+### Author - Kartik Kumar
+Email - kartikkumar1800089@gmail.com 
+
